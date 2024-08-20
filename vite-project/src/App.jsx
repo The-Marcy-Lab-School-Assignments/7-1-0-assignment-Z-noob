@@ -9,7 +9,7 @@ const App = () => {
       <br />
       <PokemonForm />
       <br />
-      <Filter />
+      {/* <Filter /> */}
       <br />
       <PokemonCollection />
     </div>
